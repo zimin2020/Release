@@ -1,3 +1,7 @@
+
+<img width="128" height="128" alt="Group 8" src="https://github.com/user-attachments/assets/2a8f37ca-daf0-4975-a8ad-61c00ba671ca" />
+
+
 # release
 
 Windows 桌面截图贴图工具（Python）。
